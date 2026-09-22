@@ -1,4 +1,4 @@
-# Module 5 — Input, Output & Type Conversion
+# Module 4 — Input, Output & Type Conversion
 
 This module covers taking input from the user, displaying output, and converting values from one data type to another in Java.
 
