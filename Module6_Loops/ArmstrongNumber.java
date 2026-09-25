@@ -1,5 +1,7 @@
 package core_java_fundamentals.Module6_Loops;
+
 import java.util.Scanner;
+
 public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -25,9 +27,3 @@ public class ArmstrongNumber {
         sc.close();
     }
 }
-
-
-    
-    
-
-
